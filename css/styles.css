@@ -193,10 +193,10 @@ a {
 
 .features-inner {
   display: flex;
+  gap: 24px;
 }
 
 .features-list {
-  width: calc((100% - 72px) / 4);
 }
 
 .features-title {
