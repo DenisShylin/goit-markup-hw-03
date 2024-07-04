@@ -284,8 +284,9 @@ a {
 
 /* SECTION PORTFOLIO */
 .portfolio {
-  padding-bottom: 120px;
   row-gap: 48px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .portfolio-section-title {
@@ -296,8 +297,7 @@ a {
   text-align: center;
   color: #2e2f42;
   width: 100%;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  margin-bottom: 72px;
 }
 
 .portfolio-box {
