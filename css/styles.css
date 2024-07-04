@@ -244,7 +244,7 @@ a {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  margin-bottom: 72px;
+  margin-bottom: 8px;
 }
 
 .team-box {
@@ -285,11 +285,8 @@ a {
 .portfolio {
   padding-top: 120px;
   padding-bottom: 120px;
-  margin-bottom: 72px;
-}
-.container_portfolio {
-  padding-bottom: 124px;
   row-gap: 48px;
+  margin-bottom: 48px;
 }
 
 .portfolio-section-title {
@@ -302,7 +299,7 @@ a {
   padding-top: 120px;
   padding-bottom: 72px;
   width: 100%;
-  margin-bottom: 8px;
+  margin-bottom: 72px;
 }
 
 .portfolio-box {
