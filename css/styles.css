@@ -159,7 +159,6 @@ a {
   line-height: 1.07;
   margin-left: auto;
   margin-right: auto;
-  min-width: 169px;
 }
 
 .review-btn {
@@ -180,6 +179,7 @@ a {
   padding-right: 32px;
   display: block;
   margin: 0 auto;
+  min-width: 169px;
 }
 
 .review-btn:hover {
@@ -194,6 +194,7 @@ a {
 
 .section-features {
   padding: 120px 156px;
+  padding: 120px 0;
 }
 
 .features-inner {
@@ -202,6 +203,7 @@ a {
 }
 
 .features-list {
+  width: calc((100% - 72px) / 4);
 }
 
 .features-title {
@@ -210,6 +212,7 @@ a {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .features-title {
